@@ -1,2 +1,2 @@
 # hello-word
-hame s ello my name is Michail
+hello my name is Michail
